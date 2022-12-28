@@ -15,4 +15,4 @@ The files below allow users to do the following functionalities:
 
 3. The pwd (Print Working Directory) file:
 - Print the path of the working directory, starting from the root.  
-NB: This program does not use the getswd(3) function by POSIX. It travers the directories and gets the current working directory from scratch.
+NB: This program does not use the getcwd(3) function by POSIX. It travers the directories and gets the current working directory from scratch.
